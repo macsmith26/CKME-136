@@ -1,2 +1,2 @@
 # CKME-136
-Capstone project: Forecasting grocery sales
+Capstone Project: Forecasting Grocery Sales
